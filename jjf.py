@@ -1,1 +1,1 @@
-print("this is the old first directory")
+print("this is the new second directory")
