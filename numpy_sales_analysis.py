@@ -12,7 +12,4 @@ print("Sales for each day:", sales.sum(axis=1))
 print("Sales for each product:", sales.sum(axis=0))
 
 best_day = sales.sum(axis=1).argmax() +1
-print("Best day number (starts from 0):", best_day) 
-
-print("hfhfhf")
-print("hfhfhfhyayataebe")
+print("Best day number (starts from 0):", best_day)
